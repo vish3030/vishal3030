@@ -1,0 +1,55 @@
+a:hover{
+    background-color: aqua;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 650px auto auto;
+    margin: 10px;
+    gap: 20px;
+}
+.para{
+    border-style: groove;
+    overflow: scroll;
+}
+.paraimage{
+
+}
+.card{
+    float: left;
+    margin: 70px 70px 65px;
+    
+}
+.skill{
+
+}
+form ol li{
+    margin: 20px;
+
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 16px 20px;
+    border: 2px solid burlywood;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+  input[type=number] {
+    width: 100%;
+    padding: 16px 20px;
+    border: 2px solid burlywood;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+  footer{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 0, 200);
+    font-size: large;
+
+  }
+  body{
+    background-color: rgb(125, 176, 218);
+    background-image: url(background.jpg);
+    background-size: cover;
+  }
